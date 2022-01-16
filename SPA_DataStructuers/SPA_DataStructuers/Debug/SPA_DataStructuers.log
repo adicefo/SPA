@@ -1,0 +1,6 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Enterprise\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(510,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (SPA_DataStructuers.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Source.cpp
+C:\Users\Adi\OneDrive\Radna površina\VS KODOVI\C++\STRUKTURE_PODATAKA_I_ALGORITMI\SPA_DataStructuers\SPA_DataStructuers\PQFunction.h(12,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Adi\OneDrive\Radna površina\VS KODOVI\C++\STRUKTURE_PODATAKA_I_ALGORITMI\SPA_DataStructuers\SPA_DataStructuers\RedFunctions.h(6,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Adi\OneDrive\Radna površina\VS KODOVI\C++\STRUKTURE_PODATAKA_I_ALGORITMI\SPA_DataStructuers\SPA_DataStructuers\Source.cpp(64): warning C4715: 'BST::rekurzijaTrazi': not all control paths return a value
+  SPA_DataStructuers.vcxproj -> C:\Users\Adi\OneDrive\Radna površina\VS KODOVI\C++\STRUKTURE_PODATAKA_I_ALGORITMI\SPA_DataStructuers\Debug\SPA.exe
